@@ -1,7 +1,3 @@
-Claro! Aqui está uma sugestão de apresentação para o seu perfil no GitHub:
-
----
-
 ## Olá! Eu sou o Carlos Silva 👋
 
 ### Sobre mim
@@ -30,20 +26,7 @@ Claro! Aqui está uma sugestão de apresentação para o seu perfil no GitHub:
 
 - 👀 Estou sempre interessado em oportunidades para colaborar em projetos interessantes relacionados a segurança da informação e desenvolvimento de software. Sinta-se à vontade para entrar em contato!
 
----
 
-Sinta-se livre para personalizar conforme necessário e adicionar quaisquer outras informações relevantes sobre seus projetos, experiências ou objetivos futuros.
-<!--
-**Carlos-Henrique-Silva/Carlos-Henrique-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
