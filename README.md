@@ -24,9 +24,3 @@
 
 ### Vamos conectar!
 
-- 👀 Estou sempre interessado em oportunidades para colaborar em projetos interessantes relacionados a segurança da informação e desenvolvimento de software. Sinta-se à vontade para entrar em contato!
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
